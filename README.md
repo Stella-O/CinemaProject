@@ -1,4 +1,5 @@
-# CinemaProject - This is a program that checks whether a user is old enough to watch a film and whether there are enough seats left. 
+# CinemaProject 
+This is a program that checks whether a user is old enough to watch a film and whether there are enough seats left. 
 The system also updates itself when somebody buys a film ticket and reduces the number of seats by one when someone purchases a ticket.
 For simplicity, I used only four movies: 
 a. Finding Dory: (minimum age to watch = 3, no. of available seats = 5)
