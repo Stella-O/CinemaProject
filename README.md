@@ -9,6 +9,6 @@ Ghost Busters: (minimum age to watch = 12, no. of available seats = 5).
 
 
 ##Steps To Run This Program
-a. You need to have python installed on your computer to run this program.  
+a. You need to have python installed on your computer.  
 b. Clone this repository on your local machine.
 c. Double-click on *cinema.py*
