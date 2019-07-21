@@ -30,3 +30,5 @@ while True:
             print("You are too young to see that film!")
     else:
         print("We don't have that film...")
+
+input()
